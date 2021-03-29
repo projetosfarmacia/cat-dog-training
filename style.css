@@ -1,0 +1,49 @@
+#entrada{
+  width: 900px;
+  height: 1080px;
+  border:solid sienna 1px;
+  background: cornsilk;
+}
+
+#botao{
+  width: 60px;
+  height: 20px;
+  border:solid  2px;
+  background: yellow;
+}
+
+#heard{
+  width: 900px;
+  height: 80px;
+  background: silver;
+}
+
+#galeria{
+  width: 900px;
+  height: 500px;
+  color: aqua;
+  background: black;
+}
+
+#informativo{
+  width: 900px;
+  height: 500px;
+  border: solid salmon 1px;
+}
+#Projeto{
+  width: 900px;
+  height: 500px;
+  background: blue;
+  border: solid gray 5px;
+}
+#Cases{
+  width: 900px;
+  height: 500px;
+  border: solid greenyellow 1px;
+}
+#footer{
+  width: 900px;
+  height: 500px;
+  color: aqua;
+  background: black;
+}
