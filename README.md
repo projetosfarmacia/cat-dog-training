@@ -11,14 +11,17 @@ inteligência artificial
    por meio de recursos audiovisuais treina a obedecer a comandos de voz e por 
     fim permite que seu dono interage virtualmente com o seu animal seja ele 
    na forma de outro animal ou humana virtualizado..
-   
+ _________________________________________________
+ 
 recursos :
 
 comando de voz, animabots, toolsback, babypoint, etc.. 
-
+ _________________________________________________
+ 
   o site tem espaço para assistências reais e outros suportes 
    espaço comercial de produtos e serviços..
-
+ _________________________________________________
+ 
 Equipe:
 
 Yuri de Farias Gomes (TADS)
@@ -27,16 +30,25 @@ Larisse Camila Campos Gomes da Silva (Dsr)
 
 Mario Henrique Jose Silva Couqueijo de Aquino (DevOps)
 
-
+ _________________________________________________
+ 
 Estrutura secionadas:
-div id="entrada 
- div id="heard
- div id="galeria
- div id="informativo
- div id="Projeto
- div id="Cases
- div id="footer
 
+div id="entrada 
+
+ div id="heard
+ 
+ div id="galeria
+ 
+ div id="informativo
+ 
+ div id="Projeto
+ 
+ div id="Cases
+ 
+ div id="footer
+ _________________________________________________
+ 
 Funcionalidades:
 
 -botões para scrooroler para mover de forma rápida a pagina para cima ou para baixo
@@ -45,4 +57,8 @@ em transição do movimento
 -elementos animados que interagem com o movimento do ponteiro do mouse.
 
 -botões que abrem sub janelas informativas ou abas espaciais editáveis
+
+ _________________________________________________
+ 
+ Data copyring  29/03/2021
 
