@@ -2,7 +2,7 @@
 
 Descrição:
 
-Site interativo para treinamento de cãe e gatos utilizando realidade aumentada e 
+Site interativo para treinamento de cãe e gatos utilizando realidade aumentada com 
 inteligência artificial
 
    o site ensina o cão a buscar seu próprio sustento,  buscando se alimentar ,
@@ -36,7 +36,7 @@ Estrutura secionadas:
 
 div id="entrada 
 
- div id="heard
+ div id="hearder
  
  div id="galeria
  
@@ -51,7 +51,7 @@ div id="entrada
  
 Funcionalidades:
 
--botões para scrooroler para mover de forma rápida a pagina para cima ou para baixo
+-botões para scrollrow para mover de forma rápida a pagina para cima ou para baixo
 em transição do movimento
 
 -elementos animados que interagem com o movimento do ponteiro do mouse.
