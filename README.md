@@ -6,7 +6,7 @@ Site interativo para treinamento de cãe e gatos utilizando realidade aumentada 
 inteligência artificial
 
    o site ensina o cão a buscar seu próprio sustento,  buscando se alimentar ,
-   se refrescar,  tomar seu banho e fazer suas necessidades de forma inteligente
+   se refrescar,  tomar seu banho bem como fazer suas necessidades de forma inteligente
    também treinaria por meio de imagens artificiais  a aguçar sua percepção
    por meio de recursos audiovisuais treina a obedecer a comandos de voz e por 
     fim permite que seu dono interage virtualmente com o seu animal seja ele 
@@ -60,5 +60,5 @@ em transição do movimento
 
  _________________________________________________
  
- Data copyring  29/03/2021
+ Data copyright  29/03/2021
 
