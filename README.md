@@ -23,7 +23,7 @@ Larisse Camila Campos Gomes da Silva (Dsr)
 Mario Henrique Jose Silva Couqueijo de Aquino (DevOps)
 
 Estrutura secionadas:
-<div id="entrada"></div>
+"<div id="entrada"></div>"
  <div id="heard"></div>
  <div id="galeria"></div>
  <div id="informativo"></div>
