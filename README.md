@@ -29,6 +29,7 @@ Mario Henrique Jose Silva Couqueijo de Aquino  ---- (DevOps)
  Cronograma: 
  
  Construção do logo e primeiros elementos html (sem 13)
+ 
  Construção do Footer (sem 14)
  
  
