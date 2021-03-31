@@ -2,15 +2,9 @@
 
 Descrição:
 
-Site interativo para treinamento de cãe e gatos utilizando realidade aumentada com 
-inteligência artificial
+Site interativo para treinamento de cãe e gatos utilizando realidade aumentada com inteligência artificial
 
-   o site ensina o cão a buscar seu próprio sustento,  buscando se alimentar ,
-   se refrescar,  tomar seu banho bem como fazer suas necessidades de forma inteligente
-   também treinaria por meio de imagens artificiais  a aguçar sua percepção
-   por meio de recursos audiovisuais treina a obedecer a comandos de voz e por 
-    fim permite que seu dono interage virtualmente com o seu animal seja ele 
-   na forma de outro animal ou humana virtualizado..
+O site ensina o cão a buscar seu próprio sustento, buscando se alimentar , se refrescar, tomar seu banho e fazer suas necessidades de forma inteligente também treinaria por meio de imagens artificiais a aguçar sua percepção por meio de recursos audiovisuais treina a obedecer a comandos de voz e por fim permite que seu dono interage virtualmente com o seu animal seja ele na forma de outro animal ou humana virtualizado..
  _________________________________________________
  
 recursos :
@@ -24,12 +18,38 @@ comando de voz, animabots, toolsback, babypoint, etc..
  
 Equipe:
 
-Yuri de Farias Gomes (TADS)
+Yuri de Farias Gomes--- ( Analista de Requisitos )
 
-Larisse Camila Campos Gomes da Silva (Dsr)
+Larisse Camila Campos Gomes da Silva   ---- -- (Design)
 
-Mario Henrique Jose Silva Couqueijo de Aquino (DevOps)
+Mario Henrique Jose Silva Couqueijo de Aquino  ---- (DevOps)
 
+ _________________________________________________
+ 
+ Cronograma: 
+ 
+ Construção do logo e primeiros elementos html (sem 13)
+ Construção do Footer (sem 14)
+ 
+ 
+ ___________________________________________________
+ 
+ Repositório:
+https://github.com/ProjetoLM2021/cat-dog-training
+Site:
+https://projetolm2021.github.io/cat-dog-training/
+
+
+Video de Apresentação do escopo:
+https://youtu.be/OXdc9ImknZY
+
+Video do Prótotipo Funcional:
+(prev. 02/04/21)
+
+Video do Site na Fase 1 conclusiva:
+(prev. 09/04/21)
+ 
+ 
  _________________________________________________
  
 Estrutura secionadas:
