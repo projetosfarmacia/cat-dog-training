@@ -1,49 +1,208 @@
-#entrada{
-  width: 900px;
-  height: 1080px;
-  border:solid sienna 1px;
-  background: cornsilk;
+
+*{
+  margin:0;
+  padding: 0;
 }
 
-#botao{
-  width: 60px;
-  height: 20px;
-  border:solid  2px;
-  background: yellow;
+body{
+  font-size: 16px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: #f3f3f3;
+
 }
 
-#heard{
-  width: 900px;
-  height: 80px;
-  background: silver;
+
+
+
+#conteiner{
+
+
+
+  
+  display: inline-flex;
+   border:solid rgb(206, 200, 198) 1px;
+   /*margin é espaçamento externo*/
+   margin: 30px;
+   margin-left: 0px;
+   margin-right: 0px;
+ /*padding é espaçamento interno*/
+   padding-right: 0px;
+    padding-left: 60px;
+    padding-top:20px;
+
+   box-shadow: 0px 3px 5px 0px rgb(0 0 0 / 15%);
+    background: rgba(255,255,255,.6);
+    
+    width: 100%;
+    top: 0;
+
 }
 
-#galeria{
-  width: 900px;
-  height: 500px;
-  color: aqua;
-  background: black;
-}
+
+
+
 
 #informativo{
-  width: 900px;
+  width: 1108px;
   height: 500px;
   border: solid salmon 1px;
+  background-image: url(../img/cat1.jpg);
+  background-size: 500px 500pxr;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 #Projeto{
-  width: 900px;
+  width: 1108px;
   height: 500px;
   background: blue;
   border: solid gray 5px;
+   background-image: url(../img/leao1.gif);
+  background-size: 900px 900pxr;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 #Cases{
-  width: 900px;
+ width: 1108px;
   height: 500px;
   border: solid greenyellow 1px;
+   background-image: url(../img/dog3.gif);
+  background-size: 1000px 1000pxr;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+#Contatos{
+   width:100%;
+  height: 150px;
+  color: greenyellow;
+  background: orangered;
+}
+#Acesso{
+   width:100%;
+  height: 500px;
+  color: black;
+  background: yellow;
 }
 #footer{
-  width: 900px;
+  
+  width:100%;
   height: 500px;
   color: aqua;
   background: black;
+}
+
+.conteudo-cabecalho{
+  text-align:right;
+  margin-top:0px;
+  
+  display: block;
+  padding: 2rem;
+  width: 1108px;
+  opacity:0.65;
+    
+ width:100% ;
+}
+
+a{
+
+  text-decoration: none;
+  padding: 20px;
+  text-align:right;
+  color:black;
+  font-size: 10px;
+
+}
+
+
+/*Links houver, passa o cursor  sobre o link*/
+a:hover{
+  color: orange;
+  
+  
+ 
+}
+
+#conteiner_direito{
+  width: 900px;
+}
+
+#social{
+  text-align:right;
+  padding-bottom: 0px;
+   width: 1108px;
+}
+
+
+
+#soci{
+   margin-top: 40px;
+   padding-left: 70px;
+  color:red;
+}
+
+
+#social3{
+  display: inline-block;
+  margin-top: 10px;
+  padding: auto;
+
+}
+#links{
+   text-align:right;
+  padding-bottom: 10px;
+   width: 1108px;
+  
+  
+}
+#links a:hover{
+ border-bottom: 5px solid orange;
+}
+
+
+  img{
+    height:100px ;
+    width:100px ;
+    
+      }
+
+  img a:hover{
+    height:150px ;
+    width:150px ;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: solid orange 1px;
+  }
+  #cubomagico{
+    border-radius: 150px;
+    /*
+   border-bottom-left-radius: 95px;
+    border-bottom-right-radius: 95px;*/
+  border: solid orange 1px;
+  }
+#catdog{
+  margin-top: 20px;
+  margin-left: 50px;
+  height:34px; 
+  width:100px;
+}
+
+#catdog1{
+  
+  padding-top: 50px;
+  
+  height:34px; 
+  width:100px; 
+}
+
+#entrada{
+  position: relative;
+  left:560px ;
+  bottom: 90px;
+  height:2px ;
+}
+#facebook{
+  display:inline-flex;
+  padding-left: 40px;
 }
