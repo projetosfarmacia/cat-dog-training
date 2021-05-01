@@ -2,9 +2,10 @@
 
 Descrição:
 
-Site interativo para treinamento de cãe e gatos utilizando realidade aumentada com inteligência artificial
+Site interativo para treinamento de cãe e gatos utilizando realidade aumentada com inteligência artificial. 
 
-O site ensina o cão a buscar seu próprio sustento, buscando se alimentar , se refrescar, tomar seu banho e fazer suas necessidades de forma inteligente também treinaria por meio de imagens artificiais a aguçar sua percepção por meio de recursos audiovisuais treina a obedecer a comandos de voz e por fim permite que seu dono interage virtualmente com o seu animal seja ele na forma de outro animal ou humana virtualizado..
+o site possui um sistema que ensina o cão a buscar seu próprio sustento, buscando se alimentar , se refrescar, tomar seu banho e fazer suas necessidades de forma inteligente, também treinaria por meio de imagens artificiais a aguçar sua percepção por meio de recursos audiovisuais treina a obedecer a comandos de voz e por fim permite que seu dono interage virtualmente com o seu animal (ex. seja ele na forma de outro animal ou humana virtualizado.)
+
  _________________________________________________
  
 recursos :
@@ -14,23 +15,26 @@ comando de voz, animabots, toolsback, babypoint, etc..
  
   o site tem espaço para assistências reais e outros suportes 
    espaço comercial de produtos e serviços..
+   
+   ex. chat para relatar problemas
+   ex. assistência veterinária
+   ex. assistência transporte.. 
  _________________________________________________
  
 Equipe:
 
-Yuri de Farias Gomes--- ( Analista de Requisitos )
+Yuri de Farias Gomes--- 
 
-Larisse Camila Campos Gomes da Silva   ---- -- (Design)
+Larisse Camila Campos Gomes da Silva   ---- -- 
 
-Mario Henrique Jose Silva Couqueijo de Aquino  ---- (DevOps)
+Mario Henrique Jose Silva Couqueijo de Aquino  ---- 
 
  _________________________________________________
  
  Cronograma: 
  
- Construção do logo e primeiros elementos html (sem 13)
- 
- Construção do Footer (sem 14)
+ Atualizando o Hearder e criando o Footer
+ construindo os layouts.
  
  
  ___________________________________________________
@@ -45,41 +49,45 @@ Video de Apresentação do escopo:
 https://youtu.be/OXdc9ImknZY
 
 Video do Prótotipo Funcional:
-(prev. 02/04/21)
+https://drive.google.com/file/d/1t_h4HZfcAgOHYVqyTwyEwerM0l6dnzdN/view?usp=sharing
 
-Video do Site na Fase 1 conclusiva:
-(prev. 09/04/21)
+
+
+Video do Site na Fase 2
+
  
  
  _________________________________________________
  
 Estrutura secionadas:
 
-div id="entrada 
+Menu
 
- div id="hearder
- 
- div id="galeria
- 
- div id="informativo
- 
- div id="Projeto
- 
- div id="Cases
- 
- div id="footer
+Informativos
+
+Projetos
+
+Cases
+
+Acesso 
+
+Contato
+
+Rodapé
  _________________________________________________
  
 Funcionalidades:
 
--botões para scrollrow para mover de forma rápida a pagina para cima ou para baixo
-em transição do movimento
+-botões centralizado  "scrollrow" para mover de forma rápida a pagina para cima ou para baixo
+evitado o uso do cursor
 
--elementos animados que interagem com o movimento do ponteiro do mouse.
+-elementos animados habilitando novas funções.
 
--botões que abrem sub janelas informativas ou abas espaciais editáveis
+-botões animados habilitando novas funções que abrem sub janelas informativas ou novas abas 
 
  _________________________________________________
+ 
+ atualizado em: 01/05/2021
  
  Data copyright  29/03/2021
 
